@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aengrhenry@gmail.com**
 
-- 📄 Know about my experiences [My Resume ]([https://www.canva.com/design/DAGHee-Luo0/CtAttsQGKcxsclS8IOiVLw/edit?utm_content=DAGHee-Luo0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://canva.link/akd4tnpzvrj539g))
+- 📄 Know about my experiences <a href="https://www.canva.com/design/DAGHee-Luo0/CtAttsQGKcxsclS8IOiVLw/edit?utm_content=DAGHee-Luo0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://canva.link/akd4tnpzvrj539g">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
