@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **any interesting product**
 
-- 💬 Ask me about **Python, Django, Nodejs, React, React Native And Typescript**
+- 💬 Ask me about **Python, Django, Nodejs, Nestjs, Java, Spring Boot, React, React Native And Typescript**
 
 - 📫 How to reach me **aengrhenry@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGHee-Luo0/CtAttsQGKcxsclS8IOiVLw/edit?utm_content=DAGHee-Luo0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGHee-Luo0/CtAttsQGKcxsclS8IOiVLw/edit?utm_content=DAGHee-Luo0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [My Resume ]([https://www.canva.com/design/DAGHee-Luo0/CtAttsQGKcxsclS8IOiVLw/edit?utm_content=DAGHee-Luo0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://canva.link/akd4tnpzvrj539g))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
