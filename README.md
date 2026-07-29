@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jameshenry2020" alt="jameshenry2020" /></a> </p>
 
-- 🔭 I’m currently working on [mult tenant saas enterprise project](https://github.com/jameshenry2020/alpha)
+- 🔭 I’m currently working on [mult tenant saas enterprise project](https://github.com/jameshenry2020/alpha-team-product)
 
 - 🌱 I’m currently learning **Data Enginneering**
 
