@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
-<h3 align="center">A passionate Senior fullstack Engineer & React Native Developer from Nigeria</h3>
+<h3 align="center">A passionate Senior Backend Engineer & React Native Developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jameshenry2020&label=Profile%20views&color=0e75b6&style=flat" alt="jameshenry2020" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jameshenry2020" alt="jameshenry2020" /></a> </p>
 
-- 🔭 I’m currently working on [elearning platform](https://github.com/jameshenry2020/EduTech-Learning-platform.git)
+- 🔭 I’m currently working on [mult tenant saas enterprise project](https://github.com/jameshenry2020/alpha)
 
 - 🌱 I’m currently learning **Data Enginneering**
 
