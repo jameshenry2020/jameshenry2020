@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
-<h3 align="center">A passionate Senior Backend Engineer & React Native Developer from Nigeria</h3>
+<h3 align="center">A passionate Backend Engineer, Infrastructure Engineer(AWS & GCP) & React Native Developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jameshenry2020&label=Profile%20views&color=0e75b6&style=flat" alt="jameshenry2020" /> </p>
 
