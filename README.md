@@ -1,34 +1,89 @@
-<h1 align="center">Hi 👋, I'm Henry</h1>
-<h3 align="center">A passionate Backend Engineer, Infrastructure Engineer(AWS & GCP) & React Native Developer from Nigeria</h3>
+<h1 align="center">Hi, I'm Henry 👋</h1>
+<h3 align="center">Backend & Infrastructure Engineer (AWS & GCP) · React Native Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jameshenry2020&label=Profile%20views&color=0e75b6&style=flat" alt="jameshenry2020" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jameshenry2020" alt="jameshenry2020" /></a> </p>
-
-- 🔭 I’m currently working on [mult tenant saas enterprise project for startups (a b2b business model)](https://github.com/jameshenry2020/alpha-team-product)
-
-- 🌱 I’m currently learning **Data Enginneering** | **AI Infrastructure Engineering**
-
-- 👯 I’m looking to collaborate on **any interesting product**
-
-- 💬 Ask me about **Python, Django, Nodejs, Nestjs, Java, Spring Boot, React, React Native And Typescript**
-
-- 📫 How to reach me **aengrhenry@gmail.com**
-
-- 📄 Know about my experiences <a href="https://canva.link/py2pekbf06shy5z">My Resume</a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@henry_tech22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@henry_tech22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/agbonlahorhenry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agbonlahorhenry" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/henry coding stack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="henry coding stack" height="30" width="40" /></a>
+<p align="center">
+Software developer based in Nigeria, with a background in Mechanical Engineering (Ambrose Alli University).
+I build backend systems, cloud infrastructure, and mobile apps — and I enjoy solving hard problems end to end.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/agbonlahorhenry"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/henry_tech22"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32" alt="Twitter/X"/></a>
+  <a href="https://henrydev.online"><img src="https://img.shields.io/badge/Portfolio-henrydev.online-0e75b6?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:aengrhenry@gmail.com"><img src="https://img.shields.io/badge/Email-aengrhenry%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jameshenry2020&show_icons=true&locale=en&layout=compact" alt="jameshenry2020" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jameshenry2020&show_icons=true&locale=en" alt="jameshenry2020" /></p>
+### 🔭 What I'm working on
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jameshenry2020&" alt="jameshenry2020" /></p>
+- Currently building a **multi-tenant SaaS platform for startups** (B2B) — [alpha-team-product](https://github.com/jameshenry2020/alpha-team-product)
+- Learning **Data Engineering** and **AI Infrastructure Engineering**
+- Open to collaborating on interesting backend, infra, or mobile products
+- Ask me about: **Python, Django, Node.js, NestJS, Java, Spring Boot, React, React Native, TypeScript**
+- 📄 [My Resume](https://henrydev.online/resume) — *(swap in a direct PDF/portfolio link instead of a Canva share link)*
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" title="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" title="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" title="TypeScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="32" title="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="32" title="CSS3"/>
+
+**Frameworks & Libraries**
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="32" title="Django"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="32" title="Express"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="32" title="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="32" title="React"/>
+<img src="https://reactnative.dev/img/header_logo.svg" width="32" title="React Native"/>
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="32" title="GraphQL"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="32" title="Tailwind CSS"/>
+
+**Cloud & DevOps**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32" title="AWS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="32" title="Docker"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="32" title="Kubernetes"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="32" title="Nginx"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32" title="Git"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="32" title="Bash"/>
+
+**Databases**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="32" title="PostgreSQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="32" title="MongoDB"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="32" title="Redis"/>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| [advance-search-engine-with-django-DRF-and-elasticsearch](https://github.com/jameshenry2020/advance-search-engine-with-django-DRF-and-elasticsearch) | Complex search engine built with Django REST Framework and Elasticsearch, using clean Domain-Driven Architecture |
+| [building-a-crowdfunding-platform](https://github.com/jameshenry2020/building-a-crowdfunding-platform-with-nestjs-nextjs-prisma-and-stripe) | Full-stack crowdfunding & membership platform built with NestJS, Next.js, Prisma, and Stripe |
+| [django-authentication-system-and-Oauth2](https://github.com/jameshenry2020/django-authentication-system-and-Oauth2) | OAuth2 social login (Google & Facebook) implemented with django-allauth |
+| [linktree-clone](https://github.com/jameshenry2020/linktree-clone-with-django-rest-framework-and-reactjs) | Linktree clone built with Django REST Framework, React, and Redux RTK Query |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jameshenry2020&show_icons=true&locale=en&layout=compact" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jameshenry2020&" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jameshenry2020&show_icons=true&locale=en&layout=compact" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jameshenry2020" alt="jameshenry2020 trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jameshenry2020&label=Profile%20views&color=0e75b6&style=flat" alt="jameshenry2020 profile views"/>
+</p>
