@@ -21,7 +21,7 @@ I build backend systems, cloud infrastructure, and mobile apps — and I enjoy s
 - Learning **Data Engineering** and **AI Infrastructure Engineering**
 - Open to collaborating on interesting backend, infra, or mobile products
 - Ask me about: **Python, Django, Node.js, NestJS, Java, Spring Boot, React, React Native, TypeScript**
-- 📄 [My Resume](https://henrydev.online/resume) 
+- 📄 [My Resume](https://github.com/jameshenry2020/jameshenry2020/blob/main/assets/Updated_Henry_CV%20.pdf) 
 
 ---
 
