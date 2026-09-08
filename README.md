@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jameshenry2020" alt="jameshenry2020" /></a> </p>
 
-- 🔭 I’m currently working on [mult tenant saas enterprise project](https://github.com/jameshenry2020/alpha-team-product)
+- 🔭 I’m currently working on [mult tenant saas enterprise project for startups (a b2b business model)](https://github.com/jameshenry2020/alpha-team-product)
 
-- 🌱 I’m currently learning **Data Enginneering**
+- 🌱 I’m currently learning **Data Enginneering** | **AI Infrastructure Engineering**
 
 - 👯 I’m looking to collaborate on **any interesting product**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aengrhenry@gmail.com**
 
-- 📄 Know about my experiences <a href="https://www.canva.com/design/DAGHee-Luo0/CtAttsQGKcxsclS8IOiVLw/edit?utm_content=DAGHee-Luo0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://canva.link/akd4tnpzvrj539g">My Resume</a>
+- 📄 Know about my experiences <a href="https://canva.link/py2pekbf06shy5z">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
