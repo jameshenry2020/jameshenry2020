@@ -21,7 +21,8 @@ I build backend systems, cloud infrastructure, and mobile apps — and I enjoy s
 - Learning **Data Engineering** and **AI Infrastructure Engineering**
 - Open to collaborating on interesting backend, infra, or mobile products
 - Ask me about: **Python, Django, Node.js, NestJS, Java, Spring Boot, React, React Native, TypeScript**
-- 📄 [My Resume]([(https://github.com/jameshenry2020/jameshenry2020/blob/main/assets/Updated_Henry_CV%20.pdf])
+- 📄 [My Resume](https://henrydev.online/resume) 
+
 ---
 
 ### 🧰 Tech Stack
@@ -44,6 +45,8 @@ I build backend systems, cloud infrastructure, and mobile apps — and I enjoy s
 
 **Cloud & DevOps**
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32" title="AWS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="32" title="Google Cloud Platform"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="32" title="Terraform"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="32" title="Docker"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="32" title="Kubernetes"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="32" title="Nginx"/>
